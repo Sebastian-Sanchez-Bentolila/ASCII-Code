@@ -16,7 +16,7 @@ This project contains only one branch: main. This program is created in python a
 	- Webbrowser
 	- Mysql.connector
   	- Colorama
-  	- decouple
+  	- Decouple
 - SQL
 
 ### Requirements
